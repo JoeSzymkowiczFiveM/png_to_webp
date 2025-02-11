@@ -1,0 +1,15 @@
+{
+  "name": "png_to_webp",
+  "version": "0.0.1",
+  "description": "Convert PNG to WebP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webp-converter": "^2.3.3"
+  }
+}
