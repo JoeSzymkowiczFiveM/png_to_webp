@@ -10,6 +10,6 @@ This small tool converts PNGs to WEBP images.
 ## 👀 Usage
 
 - Install `pnpm` globally; `npm install -g pnpm`.
-- In root of this project, run `pnpm install` and `pnpm run build` to build the UI.
+- In root of this project, run `pnpm install` and `pnpm run build` to build.
 - Create a `png` folder in the root of this project and place all the icon images that you want converted into it.
 - In root of this project, run `pnpm run start`.
